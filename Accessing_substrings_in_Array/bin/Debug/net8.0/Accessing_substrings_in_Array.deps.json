@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Accessing_substrings_in_Array/1.0.0": {
+        "runtime": {
+          "Accessing_substrings_in_Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Accessing_substrings_in_Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
